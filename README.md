@@ -1,0 +1,2 @@
+# my-web
+mening portfoliyam
